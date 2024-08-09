@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.3.0
+FROM bitnami/nginx-ingress-controller:1.9.1
